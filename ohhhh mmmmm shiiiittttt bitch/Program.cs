@@ -10,7 +10,22 @@ namespace ohhhh_mmmmm_shiiiittttt_bitch
     {
         static void Main(string[] args)
         {
+            Human h = new Human();
+            h.go();
+            h.Daun();
+        }
+      
+    }
 
+    class Human
+    {
+       public void go()
+        {
+            Console.WriteLine("O");
+        }
+        public void Daun()
+        {
+            Console.WriteLine("UUUUU");
         }
     }
 }
