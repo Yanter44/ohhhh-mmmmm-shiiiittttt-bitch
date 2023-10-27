@@ -27,5 +27,14 @@ namespace ohhhh_mmmmm_shiiiittttt_bitch
         {
             Console.WriteLine("UUUUU");
         }
+
+        public void SuckDick(int howDeep)
+        {
+            if(howDeep > 15)
+            {
+                Console.WriteLine("Jopa lopnula");
+            }
+            Console.WriteLine("MMMM yammy dick");
+        }
     }
 }
